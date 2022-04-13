@@ -1,0 +1,10 @@
+C:\Users\Josef\source\repos\Proyecto de Prueba\Proyecto de Prueba\bin\Debug\Proyecto de Prueba.exe.config
+C:\Users\Josef\source\repos\Proyecto de Prueba\Proyecto de Prueba\bin\Debug\Proyecto de Prueba.exe
+C:\Users\Josef\source\repos\Proyecto de Prueba\Proyecto de Prueba\bin\Debug\Proyecto de Prueba.pdb
+C:\Users\Josef\source\repos\Proyecto de Prueba\Proyecto de Prueba\obj\Debug\Proyecto de Prueba.csprojAssemblyReference.cache
+C:\Users\Josef\source\repos\Proyecto de Prueba\Proyecto de Prueba\obj\Debug\Proyecto_de_Prueba.Formulario1.resources
+C:\Users\Josef\source\repos\Proyecto de Prueba\Proyecto de Prueba\obj\Debug\Proyecto_de_Prueba.Properties.Resources.resources
+C:\Users\Josef\source\repos\Proyecto de Prueba\Proyecto de Prueba\obj\Debug\Proyecto de Prueba.csproj.GenerateResource.cache
+C:\Users\Josef\source\repos\Proyecto de Prueba\Proyecto de Prueba\obj\Debug\Proyecto de Prueba.csproj.CoreCompileInputs.cache
+C:\Users\Josef\source\repos\Proyecto de Prueba\Proyecto de Prueba\obj\Debug\Proyecto de Prueba.exe
+C:\Users\Josef\source\repos\Proyecto de Prueba\Proyecto de Prueba\obj\Debug\Proyecto de Prueba.pdb
